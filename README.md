@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Para ejecutar el script, utiliza:
 
 ```bash
-python script.py
+python health_check.py
 ```
 
 ### Opciones principales
@@ -88,7 +88,7 @@ LoadServers --> HasServers{¿Servidores guardados?}
 
 ### Archivos
 
--   **`script.py`**: Contiene el código principal del script.
+-   **`health_check.py`**: Contiene el código principal del script.
 -   **`servers.json`**: Archivo JSON que almacena las URLs y alias de los servidores.
 
 ## Ejemplo
